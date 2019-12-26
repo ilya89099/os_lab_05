@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilya/CLionProjects/os_lab_05/src/MD5.h
+stdlib.h
+-
+stdio.h
+-
+
+/home/ilya/CLionProjects/os_lab_05/src/lib_interface.h
+MD5.h
+/home/ilya/CLionProjects/os_lab_05/src/MD5.h
+list.h
+/home/ilya/CLionProjects/os_lab_05/src/list.h
+
+/home/ilya/CLionProjects/os_lab_05/src/list.h
+stdbool.h
+-
+glob.h
+-
+stdlib.h
+-
+stdio.h
+-
+MD5.h
+/home/ilya/CLionProjects/os_lab_05/src/MD5.h
+
+/home/ilya/CLionProjects/os_lab_05/src/main_link.c
+stdio.h
+-
+lib_interface.h
+/home/ilya/CLionProjects/os_lab_05/src/lib_interface.h
+

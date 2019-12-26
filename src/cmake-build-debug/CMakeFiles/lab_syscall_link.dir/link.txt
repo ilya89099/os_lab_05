@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab_syscall_link.dir/main_syscall.c.o  -o lab_syscall_link -ldl 

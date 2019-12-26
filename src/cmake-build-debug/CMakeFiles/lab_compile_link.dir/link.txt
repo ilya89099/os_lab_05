@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab_compile_link.dir/main_link.c.o  -o lab_compile_link -Wl,-rpath,/home/ilya/CLionProjects/os_lab_05/src/cmake-build-debug libmy_list.so 

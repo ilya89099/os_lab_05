@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libmy_list.so -o libmy_list.so CMakeFiles/my_list.dir/list.c.o CMakeFiles/my_list.dir/MD5.c.o 
